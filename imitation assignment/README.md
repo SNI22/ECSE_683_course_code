@@ -1,6 +1,6 @@
 This assignment contains two parts. Each requires different dependencies. The conda environment for both assignments are stored in environment.yml file under each folder.
 
-For robomimic, please follow the official robomimic installation guide. (https://robomimic.github.io/docs/introduction/installation.html) The pre-trained models I trained were stored inside "imitation assignment/robomimic/robomimic/core/bc/lift/ph/low_dim/trained_models" and recorded lift videos are stored inside as well.
+For robomimic, please follow the official robomimic installation guide. (https://robomimic.github.io/docs/introduction/installation.html) The pre-trained models I trained were stored inside "imitation assignment/robomimic/robomimic/core/bc/lift/ph/low_dim/trained_models" and recorded lift videos are stored inside as well. The repo was originally cloned from "https://github.com/ARISE-Initiative/robomimic"
 
 For locomotion tasks. Please use conda to install environment.yml "conda env create -f environment.yml". the "motions" folder and txt files in the folder are motion captured dataset. 
 
